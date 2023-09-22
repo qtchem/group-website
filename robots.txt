@@ -1,0 +1,1 @@
+Sitemap: /group-website/sitemap.xml
