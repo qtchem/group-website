@@ -1,1 +1,1 @@
-Sitemap: /group-website/sitemap.xml
+Sitemap: /Heidar-Zadeh_group/sitemap.xml
